@@ -1,0 +1,26 @@
+.latestEvents {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .latestEvents h2 {
+        font-size: 2rem;
+        margin-bottom: 10px;
+    }
+
+    .latestEvents p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    .latestEvents ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+        .latestEvents ul li {
+            font-size: 1rem;
+            margin-bottom: 10px;
+        }
