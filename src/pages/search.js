@@ -5,6 +5,14 @@ function useQuery() {
     return new URLSearchParams(useLocation().search);
 }
 
+function searchInDocumentation(query) {
+    // This is a placeholder for your search logic.
+    // Implement your search functionality here.
+
+    // Example: Return an empty array to avoid errors
+    return [];
+}
+
 function SearchResults() {
     const query = useQuery();
     const searchQuery = query.get('q');
