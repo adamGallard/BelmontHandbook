@@ -18,7 +18,7 @@ const config = {
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
 
-    projectName: 'BelmotHandbook', // Usually your repo name.
+    projectName: 'BelmontHandbook', // Usually your repo name.
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
