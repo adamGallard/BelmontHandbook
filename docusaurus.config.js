@@ -13,16 +13,16 @@ const config = {
     favicon: 'img/cropped-Scouts_social_icon-32x32.png',
 
     // Set the production url of your site here
-    url: 'https://adamGallard.github.io',
+    url: 'https://adamGallard.github.io/BelmontHandbook',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
     organizationName: 'adamGallard',
     projectName: 'BelmontHandbook', // Usually your repo name.
-
+    deploymentBranch:'gh-pages',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-
+    trailingSlash: false,
     i18n: {
         defaultLocale: 'en',
         locales: ['en'],
