@@ -33,3 +33,8 @@
     background-color: #681e35 !important;
     color: white; /* Optional: To ensure text is readable */
 }
+
+.leader-photo {
+    width: 150px;
+    height: auto;
+}

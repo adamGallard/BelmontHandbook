@@ -7,6 +7,7 @@
     background: url('/img/scouts-Hor.png') no-repeat center center;
     background-size: cover;
     color: white; /* Adjust text color if necessary */
+
 }
 
 @media screen and (max-width: 996px) {
@@ -84,3 +85,4 @@ main {
         .search-bar button:hover {
             background-color: #0056b3;
         }
+

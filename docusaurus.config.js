@@ -13,10 +13,10 @@ const config = {
     favicon: 'img/cropped-Scouts_social_icon-32x32.png',
 
     // Set the production url of your site here
-    url: 'https://adamGallard.github.io/BelmontHandbook',
+    url: 'https://adamGallard.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/',
+    baseUrl: '/BelmontHandbook',
     organizationName: 'adamGallard',
     projectName: 'BelmontHandbook', // Usually your repo name.
     deploymentBranch:'gh-pages',
@@ -55,18 +55,7 @@ const config = {
                     src: 'img/scouts-logo.png',
                 },
                 items: [
-                    // Remove or comment out these lines
-                    // {
-                    //   to: 'docs/tutorial',
-                    //   label: 'Tutorial',
-                    //   position: 'left',
-                    // },
-                    // { to: 'blog', label: 'Blog', position: 'left' },
-                    // {
-                    //   href: 'https://github.com/facebook/docusaurus',
-                    //   label: 'GitHub',
-                    //   position: 'right',
-                    // },
+                    { to: '/docs/introduction/welcome-navigation', label: 'Parent Handbook', position: 'left' },
                 ],
             },
             footer: {
@@ -77,7 +66,7 @@ const config = {
                         items: [
                             {
                                 label: 'Contact Us',
-                                to: '/docs/contact-information',
+                                to: '/docs/group-information/contact-information',
                             },
                             // Add more items as needed or remove others
                         ],
@@ -88,7 +77,7 @@ const config = {
         }),
     stylesheets: [
         {
-            href: '/css/custom.css',
+            href: '/BelmontHandbook/css/custom.css',
             type: 'text/css',
         },
     ],
