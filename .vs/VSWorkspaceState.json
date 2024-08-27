@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\build",
-    "\\src",
-    "\\src\\components",
-    "\\src\\css",
-    "\\src\\pages",
-    "\\src\\theme",
-    "\\static"
+    "\\build\\docs",
+    "\\docs\\events-planning",
+    "\\docs\\group-information",
+    "\\docs\\parent-resources"
   ],
-  "SelectedNode": "\\docusaurus.config.js",
+  "SelectedNode": "\\build",
   "PreviewInSolutionExplorer": false
 }

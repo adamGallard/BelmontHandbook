@@ -1,6 +1,6 @@
 # Scouting Achievements
 
-At Belmont Scout Group, we encourage all Youth Members to strive towards their Scouting achievements. These achievements recognize growth, skills development, and personal accomplishments throughout a Scout’s journey. Below are the key areas where Youth Members can earn their achievements.
+At Belmont Scout Group, we encourage all Youth Members to strive towards their Scouting achievements. These achievements recognize growth, skills development, and personal accomplishments throughout a Scout's journey. Below are the key areas where Youth Members can earn their achievements.
 
 All progress and achievements are recorded in the **Terrain System**, which is used to track the skills and levels attained by Youth Members.
 

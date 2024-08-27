@@ -33,8 +33,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Luke Mackness<br />
      **Scout Name:** Cassowary<br />
      **Role:** Assistant Joey Scout Leader<br />
-     **Email:** <a href="mailto:307664@scoutsqld.com.au">307664@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
+
   </div>
 </div>
 
@@ -58,8 +57,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Alan Cunningham<br />
      **Scout Name:** Bunya<br />
      **Role:** Assistant Cub Scout Leader<br />
-     **Email:** <a href="mailto:191861@scoutsqld.com.au">191861@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
   </div>
 </div>
 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -68,8 +65,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Adrian Roos<br />
      **Scout Name:** Raptor<br />
      **Role:** Assistant Cub Scout Leader<br />
-     **Email:** <a href="mailto:25025@scoutsqld.com.au">25025@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
   </div>
 </div>
 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -78,8 +73,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Trina Fiedler<br />
      **Scout Name:** Kitty Hawk<br />
      **Role:** Assistant Cub Scout Leader<br />
-     **Email:** <a href="mailto:310748@scoutsqld.com.au">310748@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
   </div>
 </div>
 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -88,8 +81,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Owen Norris<br />
      **Scout Name:** Komodo<br />
      **Role:** Assistant Cub Scout Leader<br />
-     **Email:** <a href="mailto:19214@scoutsqld.com.au">19214@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
   </div>
 </div>
 
@@ -111,8 +102,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Aamanda Brown<br />
      **Scout Name:** Iruka <br />
      **Role:** Assistant Scout Leader<br />
-     **Email:** <a href="mailto:170320@scoutsqld.com.au">170320@scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
   </div>
 </div>
 

@@ -1,8 +1,5 @@
 // @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
 
@@ -10,71 +7,71 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
     title: 'Belmont Parent Handbook',
     tagline: 'Be Prepared',
+    url: 'https://adamGallard.github.io', // Production URL
+    baseUrl: '/BelmontHandbook', // GitHub Pages project name
+    organizationName: 'adamGallard', // GitHub username
+    projectName: 'BelmontHandbook', // Repo name
+    deploymentBranch: 'gh-pages',
     favicon: 'img/cropped-Scouts_social_icon-32x32.png',
 
-    // Set the production url of your site here
-    url: 'https://adamGallard.github.io',
-    // Set the /<baseUrl>/ pathname under which your site is served
-    // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/BelmontHandbook',
-    organizationName: 'adamGallard',
-    projectName: 'BelmontHandbook', // Usually your repo name.
-    deploymentBranch:'gh-pages',
+    // Handling broken links
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     trailingSlash: false,
+
+    // Internationalization settings
     i18n: {
         defaultLocale: 'en',
         locales: ['en'],
     },
+    markdown: {
+        mermaid: true,
+    },
 
+    // Docusaurus themes and presets
+    themes: [
+        '@docusaurus/theme-mermaid', // Mermaid theme for diagrams
+    ],
     presets: [
         [
             'classic',
-            /** @type {import('@docusaurus/preset-classic').Options} */
-            ({
+            {
                 docs: {
                     sidebarPath: './sidebars.js',
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
-            }),
+            },
         ],
     ],
 
-    themeConfig:
-        /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-        ({
-            image: 'img/docusaurus-social-card.jpg',
-            navbar: {
-                title: 'Belmont Scouts',
-                logo: {
-                    alt: 'Scouts Logo',
-                    src: 'img/scouts-logo.png',
+    // Theme configuration: Navbar, Footer, etc.
+    themeConfig: {
+        image: 'img/docusaurus-social-card.jpg',
+        navbar: {
+            title: 'Belmont Scouts',
+            logo: {
+                alt: 'Scouts Logo',
+                src: 'img/scouts-logo.png',
+            },
+            items: [
+                { to: '/docs/introduction/welcome-navigation', label: 'Parent Handbook', position: 'left' },
+            ],
+        },
+        footer: {
+            style: 'dark',
+            links: [
+                {
+                    title: 'Resources',
+                    items: [
+                        { label: 'Contact Us', to: '/docs/group-information/contact-information' },
+                    ],
                 },
-                items: [
-                    { to: '/docs/introduction/welcome-navigation', label: 'Parent Handbook', position: 'left' },
-                ],
-            },
-            footer: {
-                style: 'dark',
-                links: [
-                    {
-                        title: 'Resources',
-                        items: [
-                            {
-                                label: 'Contact Us',
-                                to: '/docs/group-information/contact-information',
-                            },
-                            // Add more items as needed or remove others
-                        ],
-                    },
-                ],
-                copyright: `Copyright © ${new Date().getFullYear()} Belmont Scouts. Built with Docusaurus.`,
-            },
-        }),
+            ],
+            copyright: `Copyright © ${new Date().getFullYear()} Belmont Scouts. Built with Docusaurus.`,
+        },
+    },
+
+    // Custom stylesheets
     stylesheets: [
         {
             href: '/BelmontHandbook/css/custom.css',

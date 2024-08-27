@@ -43,7 +43,7 @@ We follow strict guidelines to ensure that all activities are age-appropriate an
 
 ### Child Safety Policy
 
-Belmont Scouts is committed to the safety and well-being of all children and young people. We have a comprehensive Child Safety Policy that aligns with Scouts Australia’s Child Protection guidelines.
+Belmont Scouts is committed to the safety and well-being of all children and young people. We have a comprehensive Child Safety Policy that aligns with Scouts Australia's Child Protection guidelines.
 
 ### Code of Conduct for Leaders and Volunteers
 
@@ -59,9 +59,9 @@ Leaders are also required to undergo regular training on child safety and protec
 We encourage Scouts, parents, and leaders to speak up if they have any concerns about the safety or well-being of a child. Concerns can be reported to:
 - A section leader or the Group Leader.
 - The District or Region Commissioner.
-- Scouts Queensland’s Child Protection Team.
+- Scouts Queensland's Child Protection Team.
 
-All reports are treated confidentially and are investigated thoroughly in accordance with Scouts Australia’s procedures.
+All reports are treated confidentially and are investigated thoroughly in accordance with Scouts Australia's procedures.
 
 ### Blue Card Requirements
 
