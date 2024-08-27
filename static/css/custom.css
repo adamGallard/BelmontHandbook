@@ -38,3 +38,8 @@
     width: 150px;
     height: auto;
 }
+
+.badge-icon {
+    width: 100px; /* Set the width of the icon */
+    height: 100px; /* Set the height of the icon */
+}

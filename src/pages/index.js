@@ -1,10 +1,8 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import DocSidebar from '@theme/DocSidebar'; // Import DocSidebar
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import { useLocation } from '@docusaurus/router';
 import styles from './index.module.css';
+import Link from '@docusaurus/Link'; // Import the Link component
 
 function HomepageHeader() {
     return (
@@ -32,8 +30,13 @@ export default function Home() {
                         <section className={styles.features}>
                             <div className="container">
                                 <div className="row">
+
+                                    {/* Meeting Times & Location */}
                                     <div className="col col--4">
-                                        <h3>Meeting Times & Location</h3>
+                                        <Link to="/docs/group-information/meeting-times-location">
+                                            <h3>Meeting Times & Location</h3>
+                                        </Link>
+                                        <img src={require('../../static/img/location-map.png').default} alt="Belmont Scout Den Location" style={{ width: '100%', borderRadius: '8px', marginBottom: '10px' }} />
                                         <ul>
                                             <li><strong>Joey Scouts:</strong> Wednesdays, 6:15 PM - 7:30 PM</li>
                                             <li><strong>Cub Scouts:</strong> Wednesdays, 6:15 PM - 7:45 PM</li>
@@ -42,9 +45,14 @@ export default function Home() {
                                             <li><strong>Location:</strong> Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152</li>
                                         </ul>
                                     </div>
+
+                                    {/* Parent Involvement */}
                                     <div className="col col--4">
-                                        <h3>Parent Involvement</h3>
-                                        <p>Parent involvement is a key part of the success of our Scout group. Your participation helps create a richer experience for all members, and there are many ways you can get involved:</p>
+                                        <Link to="/docs/parent-resources/parent-involvement">
+                                            <h3>Parent Involvement</h3>
+                                        </Link>
+                                        <img src={require('../../static/img/parent-involvement.png').default} alt="Parent Involvement" style={{ width: '100%', borderRadius: '8px', marginBottom: '10px' }} />
+                                        <p>Parent involvement is a key part of the success of our Scout group. Your participation helps create a richer experience for all members. Here are some ways you can get involved:</p>
                                         <ul>
                                             <li><strong>Assist at Meetings:</strong> Volunteer to help with activities, set up, or supervise during meetings.</li>
                                             <li><strong>Join the Committee:</strong> Take on a leadership role by joining the group's committee.</li>
@@ -54,9 +62,18 @@ export default function Home() {
                                             <li><strong>Fundraising:</strong> Participate in or lead fundraising efforts.</li>
                                         </ul>
                                     </div>
+
+                                    {/* Contact Us */}
                                     <div className="col col--4">
-                                        <h3>Contact Us</h3>
-                                        <p>Have questions? We're here to help.</p>
+                                        <Link to="/docs/group-information/contact-information">
+                                            <h3>Contact Us</h3>
+                                        </Link>
+                                        <img src={require('../../static/img/contact-us.png').default} alt="Contact Us" style={{ width: '100%', borderRadius: '8px', marginBottom: '10px' }} />
+                                        <p>Have questions? We're here to help. Whether you need more information about the Scouts program, want to get involved, or need assistance, don't hesitate to reach out.</p>
+                                        <ul>
+                                            <li><strong>Email:</strong> <a href="mailto:gl@belmont.scoutsqld.com.au">gl@belmont.scoutsqld.com.au</a></li>
+                                            <li><strong>Phone:</strong> <a href="tel:+61400123456">+61 400 123 456</a></li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
