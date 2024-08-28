@@ -44,6 +44,8 @@ const config = {
         ],
     ],
 
+    plugins: [require.resolve('docusaurus-lunr-search')],
+
     // Theme configuration: Navbar, Footer, etc.
     themeConfig: {
         image: 'img/docusaurus-social-card.jpg',

@@ -20,6 +20,7 @@
     "@mdx-js/react": "^3.0.0",
     "algoliasearch": "^4.24.0",
     "clsx": "^2.0.0",
+    "docusaurus-lunr-search": "^3.4.0",
     "ical.js": "^2.0.1",
     "mermaid": "^11.0.2",
     "prism-react-renderer": "^2.3.0",
