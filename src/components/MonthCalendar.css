@@ -1,0 +1,24 @@
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 1rem;
+}
+
+.day-box {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-height: 100px;
+}
+
+.date {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.event {
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+    margin-bottom: 5px;
+}
