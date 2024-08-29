@@ -27,7 +27,7 @@ const config = {
     markdown: {
         mermaid: true,
     },
-
+    plugins: [require.resolve('docusaurus-lunr-search')],
     // Docusaurus themes and presets
     themes: [
         '@docusaurus/theme-mermaid', // Mermaid theme for diagrams
@@ -43,8 +43,6 @@ const config = {
             },
         ],
     ],
-
-    plugins: [require.resolve('docusaurus-lunr-search')],
 
     // Theme configuration: Navbar, Footer, etc.
     themeConfig: {

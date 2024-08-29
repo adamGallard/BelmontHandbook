@@ -2,7 +2,8 @@
 
 .doc-sidebar {
     overflow-y: auto;
-    height: calc(100vh - 60px); /* Adjust height based on your header height */
+    height: 100%;
     position: sticky;
-    top: 60px; /* Adjust based on your header height */
+    top: 40px;
+    margin-top: 0;
 }
