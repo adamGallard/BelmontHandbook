@@ -88,7 +88,7 @@ For the safety and security of our Joeys, Cubs, Scouts, and Venturers, we have e
 If you have any questions or concerns regarding the meeting times or location, please do not hesitate to contact us:
 
 - **Group Leader:** Bernard "Warra" McDrury
-- **Phone:** 0448 800 400
+- **Phone:** 0437 210 058
 - **Email:** gl@belmont.scoutsqld.com.au
 
 ---

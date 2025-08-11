@@ -22,7 +22,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Scout Name:** Dragonfly<br />
      **Role:** Joey Scout Leader<br />
      **Email:** <a href="mailto:joeys@belmont.scoutsqld.com">joeys@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:+11234567890">123-456-7890</a>
+     **Phone:** <a href="tel:></a>
   </div>
 </div>
 
@@ -92,8 +92,8 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Steven Baum<br />
      **Scout Name:** Kudu<br />
      **Role:** Scout Leader<br />
-     **Email:** <a href="mailto:cubs@belmont.scoutsqld.com">scouts@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:+6145090301">0450 903 031</a>
+     **Email:** <a href="mailto:cubs@belmont.scoutsqld.com.au">scouts@belmont.scoutsqld.com.au</a><br />
+     **Phone:** <a href="tel:"></a>
   </div>
 </div>
 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -110,11 +110,11 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
 <div style={{ display: 'flex', alignItems: 'center' }}>
   <img src={require('../img/leaders/leader.png').default} alt="Leader Name" style={{ width: '150px', marginRight: '20px', marginBottom: '5px' }} />
   <div>
-     **Name:** Kylie Ash <br />
-     **Scout Name:** Seahorse<br />
+     **Name:** Vacant<br />
+     **Scout Name:** <br />
      **Role:** Venturers Scout Leader<br />
-     **Email:** <a href="mailto:Venturers@belmont.scoutsqld.com">Venturers@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:+6145090301">0450 903 031</a>
+     **Email:** <a href="mailto:Venturers@belmont.scoutsqld.com.au">Venturers@belmont.scoutsqld.com.au</a><br />
+     **Phone:** <a href="tel:"></a>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Bernard McDrury<br />
      **Scout Name:** Warra <br />
      **Role:** Group Scout Leader<br />
-     **Email:** <a href="mailto:GL@belmont.scoutsqld.com">GL@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:+6145090301">0450 903 031</a>
+     **Email:** <a href="mailto:GL@belmont.scoutsqld.com.au">GL@belmont.scoutsqld.com.au</a><br />
+     **Phone:** <a href="tel:+61437210058">0437 210 058</a>
   </div>
 </div>

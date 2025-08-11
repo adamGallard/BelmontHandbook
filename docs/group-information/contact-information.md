@@ -13,66 +13,68 @@ Communication is key to the success of our Scout Group. Whether you have a quest
 ## Primary Contacts
 
 ### Group Leader
-**Name:** [Group Leader Name]  
-**Email:** [groupleader@example.com](mailto:groupleader@example.com)  
-**Phone:** 0400 000 008
+**Name:** Bernard McDrury 
+**Email:** [gl@belmont.scoutsqld.com](mailto:gl@belmont.scoutsqld.com.au)  
+**Phone:** 0437 210 058
 
 ### Joey Scouts Leader
-**Name:** [Leader Name]  
-**Email:** [joeyleader@example.com](mailto:joeyleader@example.com)  
-**Phone:** 0400 000 000
+**Name:** Amber Newman
+**Email:** [joeys@belmont.scoutsqld.com](mailto:joeys@belmont.scoutsqld.com.au)  
+**Phone:** 
 
 ### Cub Scouts Leader
-**Name:** [Leader Name]  
-**Email:** [cubleader@example.com](mailto:cubleader@example.com)  
-**Phone:** 0400 000 002
+**Name:** Adam Gallard 
+**Email:** [cubs@belmont.scoutsqld.com](mailto:cubs@belmont.scoutsqld.com.au)  
+**Phone:** 0450 903 031
 
 ### Scouts Leader
-**Name:** [Leader Name]  
-**Email:** [scoutsleader@example.com](mailto:scoutsleader@example.com)  
-**Phone:** 0400 000 004
+**Name:** Steve Baum
+**Email:** [scouts@belmont.scoutsqld.com](mailto:scouts@belmont.scoutsqld.com.au)  
+**Phone:** 
 
 ### Venturer Scouts Leader
-**Name:** [Leader Name]  
-**Email:** [venturerleader@example.com](mailto:venturerleader@example.com)  
-**Phone:** 0400 000 006
+**Name:** Vacant 
+**Email:** [venturers@belmont.scoutsqld.com](mailto:venturers@belmont.scoutsqld.com.au)  
+**Phone:** 
 
 ## Administrative Contacts
 
-### Treasurer
-**Name:** [Treasurer Name]  
-**Email:** [treasurer@example.com](mailto:treasurer@example.com)  
-**Phone:** 0400 000 009
 
-### Registrar
-**Name:** [Registrar Name]  
-**Email:** [registrar@example.com](mailto:registrar@example.com)  
-**Phone:** 0400 000 010
 
-## Support Contacts
+## Committee Contacts
 
 ### Committee Chair
 **Name:** [Committee Chair Name]  
-**Email:** [chair@example.com](mailto:chair@example.com)  
-**Phone:** 0400 000 011
+**Email:** [chair@belmont.scoutsqld.com](mailto:chair@belmont.scoutsqld.com.au)  
+**Phone:** 
 
-### Parent Helpers
-**Name:** [Parent Helper Name]  
-**Email:** [helper@example.com](mailto:helper@example.com)  
-**Phone:** 0400 000 012
+### Treasurer
+**Name:** [Treasurer Name]  
+**Email:** [treasurer@belmont.scoutsqld.com](mailto:treasurer@belmont.scoutsqld.com.au)  
+**Phone:** 
+
+### Secretary
+**Name:** [Secretary Name]  
+**Email:** [Secretary@example.com](mailto:Secretary@belmont.scoutsqld.com.au)  
+**Phone:** 
+
+### Fundraising Coordinator
+
+**Name:** [Fundraising Coordinator Name]
+**Email:** [Fundraising@belmont.scoutsqld.com](mailto:Fundraising@belmont.scoutsqld.com.au)
+**Phone:**
 
 ## General Inquiries
 
-For any general questions, feel free to contact our Group Leader, or send an email to [info@example.com](mailto:info@example.com).
+For any general questions, feel free to contact our Group Leader, or send an email to [gl@belmont.scoutsqld.com.au](mailto:gl@belmont.scoutsqld.com.au).
 
 ## Emergency Contact Information
 
 In case of emergency during a Scouting activity, please contact:
 
-**Emergency Contact:** [Emergency Contact Name]  
-**Phone:** 000 (for emergencies only)  
-**Alternate Emergency Contact:** [Alternate Name]  
-**Phone:** 0400 000 013
+**Emergency Contact:** Bernard McDrury 
+**Phone:** 0437 210 058
+
 
 ## How to Reach Us
 
