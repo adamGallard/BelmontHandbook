@@ -41,7 +41,7 @@ export default function Home() {
                                             <li><strong>Joey Scouts:</strong> Wednesdays, 6:15 PM - 7:30 PM</li>
                                             <li><strong>Cub Scouts:</strong> Wednesdays, 6:15 PM - 7:45 PM</li>
                                             <li><strong>Scouts:</strong> Fridays, 7:00 PM - 9:00 PM</li>
-                                            <li><strong>Venturer Scouts:</strong> Fridays, 7:00 PM - 9:00 PM</li>
+                                            {/*<li><strong>Venturer Scouts:</strong> Fridays, 7:00 PM - 9:00 PM</li>*/}
                                             <li><strong>Location:</strong> Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152</li>
                                         </ul>
                                     </div>
@@ -72,7 +72,7 @@ export default function Home() {
                                         <p>Have questions? We're here to help. Whether you need more information about the Scouts program, want to get involved, or need assistance, don't hesitate to reach out.</p>
                                         <ul>
                                             <li><strong>Email:</strong> <a href="mailto:gl@belmont.scoutsqld.com.au">gl@belmont.scoutsqld.com.au</a></li>
-                                            <li><strong>Phone:</strong> <a href="tel:+61400123456">+61 400 123 456</a></li>
+                                            <li><strong>Phone:</strong> <a href="tel:+61437210058">0437 210 058</a></li>
                                         </ul>
                                     </div>
                                 </div>
