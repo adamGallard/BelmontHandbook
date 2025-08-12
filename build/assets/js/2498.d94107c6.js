@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelmont_handbook=self.webpackChunkbelmont_handbook||[]).push([[2498],{92498:(e,c,t)=>{t.d(c,{createArchitectureServices:()=>a.S});var a=t(73009);t(58198)}}]);

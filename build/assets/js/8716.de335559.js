@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelmont_handbook=self.webpackChunkbelmont_handbook||[]).push([[8716],{98716:(e,a,k)=>{k.d(a,{createPacketServices:()=>b.$});var b=k(59811);k(58198)}}]);

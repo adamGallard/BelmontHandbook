@@ -22,7 +22,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Scout Name:** Dragonfly<br />
      **Role:** Joey Scout Leader<br />
      **Email:** <a href="mailto:joeys@belmont.scoutsqld.com">joeys@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:></a>
+     **Phone:** <a href="tel:"></a>
   </div>
 </div>
 
