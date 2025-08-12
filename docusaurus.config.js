@@ -8,7 +8,7 @@ const config = {
     title: 'Belmont Parent Handbook',
     tagline: 'Be Prepared',
     url: 'https://adamGallard.github.io', // Production URL
-    baseUrl: '/BelmontHandbook', // GitHub Pages project name
+    baseUrl: '/', // GitHub Pages project name
     organizationName: 'adamGallard', // GitHub username
     projectName: 'BelmontHandbook', // Repo name
     deploymentBranch: 'gh-pages',
