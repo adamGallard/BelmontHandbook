@@ -11,7 +11,7 @@ const config = {
     baseUrl: '/', // GitHub Pages project name
     organizationName: 'adamGallard', // GitHub username
     projectName: 'BelmontHandbook', // Repo name
-    deploymentBranch: 'gh-pages',
+    //deploymentBranch: 'gh-pages',
     favicon: 'img/cropped-Scouts_social_icon-32x32.png',
 
     // Handling broken links
