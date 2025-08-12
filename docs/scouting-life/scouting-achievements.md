@@ -1,13 +1,13 @@
 # Scouting Achievements
 
-At Belmont Scout Group, we encourage all Youth Members to strive towards their Scouting achievements. These achievements recognize growth, skills development, and personal accomplishments throughout a Scout's journey. Below are the key areas where Youth Members can earn their achievements.
+At Belmont Scout Group, we encourage all Youth Members to strive towards their Scouting achievements. These achievements recognise growth, skills development, and personal accomplishments throughout a Scout's journey. Below are the key areas where Youth Members can earn their achievements.
 
 All progress and achievements are recorded in the **Terrain System**, which is used to track the skills and levels attained by Youth Members.
 
 
 ## Outdoor Adventure Skills (OAS)
 
-Outdoor Adventure Skills (OAS) are a core part of the Scouting experience. They provide Youth Members with the opportunity to learn and develop essential outdoor skills. The OAS framework is broken into 9 skill areas, with 9 progressive levels for each area, allowing Youth Members to continuously build their competence and confidence. Additionally, specialty badges recognize advanced skills and expertise in specific areas.
+Outdoor Adventure Skills (OAS) are a core part of the Scouting experience. They provide Youth Members with the opportunity to learn and develop essential outdoor skills. The OAS framework is broken into 9 skill areas, with 9 progressive levels for each area, allowing Youth Members to continuously build their competence and confidence. Additionally, specialty badges recognise advanced skills and expertise in specific areas.
 
 ### The 9 OAS Skill Areas:
 
@@ -21,7 +21,7 @@ Outdoor Adventure Skills (OAS) are a core part of the Scouting experience. They 
    - Focus: Setting up campsites, packing for camps, tent pitching, and camp hygiene.
 
 4. **Aquatics** <img src={require('../img/badges/Aquatic.png').default} alt="Aquatics Badge" className="badge-icon" />
-   - Focus: Swimming, lifesaving, snorkeling, and water safety.
+   - Focus: Swimming, lifesaving, snorkelling, and water safety.
 
 5. **Boating** <img src={require('../img/badges/Boating.png').default} alt="Boating Badge" className="badge-icon" />
    - Focus: Canoeing, kayaking, sailing, and power boating.
@@ -47,7 +47,7 @@ Each OAS area is divided into 9 levels. As Youth Members progress through each l
 - **Levels 4-6:** Intermediate skills, typically in Terrain 2 environments.
 - **Levels 7-9:** Advanced and leadership skills, often in Terrain 3 environments.
 
-Youth Members progress at their own pace, and **Terrain** helps them visualize their growth and accomplishments throughout the program.
+Youth Members progress at their own pace, and **Terrain** helps them visualise their growth and accomplishments throughout the program.
 
 ---
 
@@ -99,7 +99,7 @@ Projects can be completed individually or in groups (Project Patrols), with each
 
 Like OAS, SIA projects can involve different terrains based on the nature of the activity. For example:
 - **Environment SIA projects** may involve working in a park (Terrain 1), conducting conservation efforts in a forest (Terrain 2), or managing an environmental project in a remote wilderness area (Terrain 3).
-- **Adventure & Sport SIA projects** could involve participating in sports in a local field (Terrain 1), organizing a sports event in a hilly region (Terrain 2), or tackling a major physical challenge in a rugged landscape (Terrain 3).
+- **Adventure & Sport SIA projects** could involve participating in sports in a local field (Terrain 1), organising a sports event in a hilly region (Terrain 2), or tackling a major physical challenge in a rugged landscape (Terrain 3).
 
 ### Support from Unit Council and Leadership
 
@@ -111,7 +111,7 @@ The **Unit Council** plays an important role in guiding and supporting Youth Mem
 Youth Members also have access to resources on the *Scouts Terrain* platform, which provides templates and guides to help them structure their projects.
 
 ### How to Earn SIA Badges:
-Youth Members choose a Special Interest Area, set a goal, and work towards achieving it using the **Plan, Do, Review** framework. The project is self-driven with guidance from Leaders. Once the goal is completed, and the project has been reviewed, the Youth Member earns their SIA badge.
+Youth Members choose a Special Interest Area, set a goal, and work towards achieving it using the **Plan, Do, Review** framework. The project is self-driven with guidance from Leaders. Once the goal is completed and the project has been reviewed, the Youth Member earns their SIA badge.
 
 ---
 
@@ -128,7 +128,7 @@ Milestones are based on participation, leadership, and personal growth. They ref
 
 ## Peak Award
 
-The Peak Award is the highest honor a Youth Member can achieve in Scouting. It recognizes sustained effort and outstanding achievement across all areas of the Scouting program, including OAS, SIA, and Milestones.
+The Peak Award is the highest honour a Youth Member can achieve in Scouting. It recognises sustained effort and outstanding achievement across all areas of the Scouting program, including OAS, SIA, and Milestones.
 
 1. **Joey Scouts:** Joey Scout Challenge Award <img src={require('../img/badges/joey_scout_challenge.png').default} alt="Joey Scout Challenge Award" className="badge-icon" />
    - The Joey Scout Challenge Award is the pinnacle of Joey Scouts and is awarded for demonstrating leadership, helping others, and achieving significant personal goals.
@@ -148,7 +148,7 @@ The Peak Award is the highest honor a Youth Member can achieve in Scouting. It r
 
 ## Recognition and Celebration
 
-At Belmont Scout Group, we believe in celebrating the achievements of our Youth Members. Regular award ceremonies are held to recognize and celebrate their efforts, with badges, certificates, and Peak Awards presented by Leaders.
+At Belmont Scout Group, we believe in celebrating the achievements of our Youth Members. Regular award ceremonies are held to recognise and celebrate their efforts, with badges, certificates, and Peak Awards presented by Leaders.
 
 For more information on Scouting achievements or to discuss your goals, feel free to contact your section Leader.
 

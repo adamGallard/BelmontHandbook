@@ -59,8 +59,8 @@
 }
 
 .badge-icon {
-    width: 100px; /* Set the width of the icon */
-    height: 100px; /* Set the height of the icon */
+  width: 64px;   /* tweak as needed */
+  height: auto;  /* keep aspect ratio */
 }
 
 aside {
