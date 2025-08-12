@@ -74,7 +74,7 @@ const config = {
     // Custom stylesheets
     stylesheets: [
         {
-            href: '/BelmontHandbook/css/custom.css',
+            href: '/css/custom.css',
             type: 'text/css',
         },
     ],
