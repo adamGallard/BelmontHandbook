@@ -19,6 +19,17 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     trailingSlash: false,
 
+      scripts: [
+    {
+      async: true,
+      src: 'https://www.feedbackrocket.io/sdk/v1.2.js',
+      'data-fr-id': 'uNX8Hc_fQoyBYqif0QF7A',
+      'data-fr-theme': 'dynamic',
+      'data-fr-title':'Feedback',
+
+    }
+  ],
+
     // Internationalization settings
     i18n: {
         defaultLocale: 'en',
@@ -55,6 +66,9 @@ const config = {
             },
             items: [
                 { to: '/docs/introduction/welcome-navigation', label: 'Parent Handbook', position: 'left' },
+                // Add a feedback button in the top navbar on every page
+
+
             ],
         },
         footer: {
@@ -69,7 +83,24 @@ const config = {
             ],
             copyright: `Copyright © ${new Date().getFullYear()} Belmont Scouts. Built with Docusaurus.`,
         },
+       // Inject Appzi script
+        injectHtmlTags: {
+            headTags: [
+                {
+                    tagName: 'script',
+                    innerHTML: `
+                    (function (d) {
+                      var appziScript = d.createElement('script');
+                      appziScript.src = 'https://w.appzi.io/w.js?token=iwUJl';
+                      appziScript.async = true;
+                      d.head.appendChild(appziScript);
+                    })(document);
+                    `,
+                },
+            ],
+        },
     },
+
 
     // Custom stylesheets
     stylesheets: [
