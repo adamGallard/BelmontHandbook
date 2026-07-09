@@ -32,7 +32,7 @@ Joey Scouts are introduced to the world of Scouting through simple, engaging act
 
 ### Cub Scouts (Ages 8-11)
 - **Day:** Wednesday Evenings
-- **Time:** 6:15 PM - 7:30 PM
+- **Time:** 6:15 PM - 7:45 PM
 - **Location:** Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152
 
 During our weekly Cub Scouts meetings, the children engage in a variety of activities that help them develop new skills, build friendships, and learn the values of Scouting. Each meeting is carefully planned to ensure a balance between fun and learning. Activities include games, crafts, outdoor skills, and preparation for camping trips and other events.
