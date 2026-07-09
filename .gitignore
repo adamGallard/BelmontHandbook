@@ -2,7 +2,7 @@
 /node_modules
 
 # Production
-#/build
+/build
 
 # Generated files
 .docusaurus
@@ -10,6 +10,7 @@
 
 # Misc
 .DS_Store
+.vs/
 .env.local
 .env.development.local
 .env.test.local
