@@ -45,16 +45,20 @@ Each stage offers unique challenges and opportunities for personal development a
 For more detailed information about the Program Essentials and how it works, visit the [Scouts Australia Program Essentials page](https://scouts.com.au/blog/2019/03/28/the-program-essentials/).
 
 ## Outdoor Adventure Skills (OAS)
-The **Outdoor Adventure Skills (OAS)** focus on key outdoor activities and skills across nine areas:
+The **Outdoor Adventure Skills (OAS)** focus on key outdoor activities and skills across nine areas: three core areas available to all Scouts, and six specialist areas.
+
+**Core areas:**
 1. **Bushcraft**
 2. **Bushwalking**
 3. **Camping**
-4. **Canoeing**
-5. **Cycling**
-6. **Paddling**
-7. **Ropework**
-8. **Sailing**
-9. **Vertical Activities**
+
+**Specialist areas:**
+4. **Aquatics**
+5. **Boating**
+6. **Cycling**
+7. **Paddling**
+8. **Vertical**
+9. **Alpine**
 
 Scouts progress through nine levels within each of these areas, gaining more advanced skills and experience as they move forward.
 

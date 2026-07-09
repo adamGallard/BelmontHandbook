@@ -1,7 +1,7 @@
 ---
 id: contact-information
 title: Contact Information
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Contact Information
@@ -14,27 +14,27 @@ Communication is key to the success of our Scout Group. Whether you have a quest
 
 ### Group Leader
 **Name:** Bernard McDrury 
-**Email:** [gl@belmont.scoutsqld.com](mailto:gl@belmont.scoutsqld.com.au)  
+**Email:** [gl@belmont.scoutsqld.com.au](mailto:gl@belmont.scoutsqld.com.au)  
 **Phone:** 0437 210 058
 
 ### Joey Scouts Leader
 **Name:** Amber Newman
-**Email:** [joeys@belmont.scoutsqld.com](mailto:joeys@belmont.scoutsqld.com.au)  
+**Email:** [joeys@belmont.scoutsqld.com.au](mailto:joeys@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ### Cub Scouts Leader
 **Name:** Adam Gallard 
-**Email:** [cubs@belmont.scoutsqld.com](mailto:cubs@belmont.scoutsqld.com.au)  
+**Email:** [cubs@belmont.scoutsqld.com.au](mailto:cubs@belmont.scoutsqld.com.au)  
 **Phone:** 0450 903 031
 
 ### Scouts Leader
 **Name:** Steve Baum
-**Email:** [scouts@belmont.scoutsqld.com](mailto:scouts@belmont.scoutsqld.com.au)  
+**Email:** [scouts@belmont.scoutsqld.com.au](mailto:scouts@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ### Venturer Scouts Leader
 **Name:** Vacant 
-**Email:** [venturers@belmont.scoutsqld.com](mailto:venturers@belmont.scoutsqld.com.au)  
+**Email:** [venturers@belmont.scoutsqld.com.au](mailto:venturers@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ## Administrative Contacts
@@ -45,23 +45,23 @@ Communication is key to the success of our Scout Group. Whether you have a quest
 
 ### Committee Chair
 **Name:** [Committee Chair Name]  
-**Email:** [chair@belmont.scoutsqld.com](mailto:chair@belmont.scoutsqld.com.au)  
+**Email:** [chair@belmont.scoutsqld.com.au](mailto:chair@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ### Treasurer
 **Name:** [Treasurer Name]  
-**Email:** [treasurer@belmont.scoutsqld.com](mailto:treasurer@belmont.scoutsqld.com.au)  
+**Email:** [treasurer@belmont.scoutsqld.com.au](mailto:treasurer@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ### Secretary
 **Name:** [Secretary Name]  
-**Email:** [Secretary@example.com](mailto:Secretary@belmont.scoutsqld.com.au)  
+**Email:** [Secretary@belmont.scoutsqld.com.au](mailto:Secretary@belmont.scoutsqld.com.au)  
 **Phone:** 
 
 ### Fundraising Coordinator
 
 **Name:** [Fundraising Coordinator Name]
-**Email:** [Fundraising@belmont.scoutsqld.com](mailto:Fundraising@belmont.scoutsqld.com.au)
+**Email:** [Fundraising@belmont.scoutsqld.com.au](mailto:Fundraising@belmont.scoutsqld.com.au)
 **Phone:**
 
 ## General Inquiries

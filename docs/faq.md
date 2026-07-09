@@ -60,6 +60,6 @@ Welcome to the Belmont Scouts FAQ page! Here you'll find answers to some of the 
 ## Contact Information
 
 **Q: Who do I contact if I have more questions?**  
-**A:** For general inquiries, please reach out to [Your Contact Person](mailto:contact@scoutsbelmont.org) or speak to your section leader at the next meeting.
+**A:** For general inquiries, please reach out to our [Group Leader](mailto:gl@belmont.scoutsqld.com.au) or speak to your section leader at the next meeting.
 
 ---

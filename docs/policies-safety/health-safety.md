@@ -79,7 +79,7 @@ Parents will be informed of any changes to these protocols as the situation evol
 
 ## Contact Information
 
-For any questions or concerns about health and safety, or to report a child safety issue, please contact [Your Contact Person](mailto:contact@scoutsbelmont.org) or speak to a leader at your next meeting.
+For any questions or concerns about health and safety, or to report a child safety issue, please contact our [Group Leader](mailto:gl@belmont.scoutsqld.com.au) or speak to a leader at your next meeting.
 
 ---
 

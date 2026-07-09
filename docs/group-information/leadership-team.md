@@ -21,8 +21,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Amber Newman<br />
      **Scout Name:** Dragonfly<br />
      **Role:** Joey Scout Leader<br />
-     **Email:** <a href="mailto:joeys@belmont.scoutsqld.com">joeys@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:"></a>
+     **Email:** <a href="mailto:joeys@belmont.scoutsqld.com.au">joeys@belmont.scoutsqld.com.au</a><br />
   </div>
 </div>
 
@@ -46,8 +45,8 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Adam Gallard<br />
      **Scout Name:** Badger<br />
      **Role:** Cub Scout Leader<br />
-     **Email:** <a href="mailto:cubs@belmont.scoutsqld.com">cubs@belmont.scoutsqld.com</a><br />
-     **Phone:** <a href="tel:+6145090301">0450 903 031</a>
+     **Email:** <a href="mailto:cubs@belmont.scoutsqld.com.au">cubs@belmont.scoutsqld.com.au</a><br />
+     **Phone:** <a href="tel:+61450903031">0450 903 031</a>
   </div>
 </div>
 
@@ -92,8 +91,7 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Name:** Steven Baum<br />
      **Scout Name:** Kudu<br />
      **Role:** Scout Leader<br />
-     **Email:** <a href="mailto:cubs@belmont.scoutsqld.com.au">scouts@belmont.scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:"></a>
+     **Email:** <a href="mailto:scouts@belmont.scoutsqld.com.au">scouts@belmont.scoutsqld.com.au</a><br />
   </div>
 </div>
 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -114,7 +112,6 @@ Meet the dedicated team of leaders who make Belmont Scouts an exciting and safe 
      **Scout Name:** <br />
      **Role:** Venturers Scout Leader<br />
      **Email:** <a href="mailto:Venturers@belmont.scoutsqld.com.au">Venturers@belmont.scoutsqld.com.au</a><br />
-     **Phone:** <a href="tel:"></a>
   </div>
 </div>
 

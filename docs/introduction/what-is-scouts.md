@@ -1,7 +1,7 @@
 ---
 id: what-is-scouts
 title: What is Scouts?
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # What is Scouts?

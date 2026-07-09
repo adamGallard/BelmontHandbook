@@ -67,5 +67,5 @@ By participating in Belmont Scouts, all members, Scouts, leaders, and parents ag
 
 ---
 
-For any questions or further clarification about the Code of Conduct, please contact [Your Contact Person](mailto:contact@scoutsbelmont.org).
+For any questions or further clarification about the Code of Conduct, please contact our [Group Leader](mailto:gl@belmont.scoutsqld.com.au).
 

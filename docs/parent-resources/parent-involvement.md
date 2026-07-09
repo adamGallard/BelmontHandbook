@@ -67,7 +67,7 @@ If you're ready to get involved, here are some steps to take:
 
 ## Contact Information
 
-For more information about how you can get involved, please reach out to [Your Contact Person](mailto:contact@scoutsbelmont.org) or speak to your section leader at the next meeting.
+For more information about how you can get involved, please reach out to our [Group Leader](mailto:gl@belmont.scoutsqld.com.au) or speak to your section leader at the next meeting.
 
 ---
 
