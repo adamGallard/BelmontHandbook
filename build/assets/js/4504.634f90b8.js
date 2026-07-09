@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbelmont_handbook=self.webpackChunkbelmont_handbook||[]).push([[4504],{34504:(e,a,b)=>{b.d(a,{createTreemapServices:()=>k.d});var k=b(43758);b(58198)}}]);

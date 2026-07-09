@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbelmont_handbook=self.webpackChunkbelmont_handbook||[]).push([[2068],{32068:(e,n,o)=>{o.d(n,{createInfoServices:()=>a.v});var a=o(41366);o(58198)}}]);
