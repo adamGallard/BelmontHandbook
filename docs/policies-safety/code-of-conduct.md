@@ -50,12 +50,14 @@ As a parent, you are expected to:
 
 ## Consequences of Misconduct
 
+:::warning
 Failure to adhere to this Code of Conduct may result in consequences, which can include:
 - Verbal warnings or reminders.
 - Temporary suspension from activities or meetings.
 - Permanent removal from the Scout Group in cases of serious or repeated misconduct.
 
 Our aim is always to resolve issues in a constructive manner, helping individuals to learn and grow from their experiences.
+:::
 
 ## Reporting and Resolving Issues
 

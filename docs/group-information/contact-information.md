@@ -70,10 +70,9 @@ For any general questions, feel free to contact our Group Leader, or send an ema
 
 ## Emergency Contact Information
 
-In case of emergency during a Scouting activity, please contact:
-
-**Emergency Contact:** Bernard McDrury
-**Phone:** 0437 210 058
+:::danger In case of emergency during a Scouting activity, contact:
+**Bernard McDrury** &mdash; 0437 210 058
+:::
 
 
 ## How to Reach Us

@@ -13,6 +13,11 @@
     --ifm-color-primary-lightest: #922a4a;
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+    /* Brand fonts: Poppins for headings/nav, Inter for body text (loaded in docusaurus.config.js) */
+    --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+    --ifm-heading-font-family: 'Poppins', var(--ifm-font-family-base);
+    --ifm-heading-font-weight: 600;
 }
 
 /* Lighter, more saturated variant for adequate contrast on dark backgrounds */
@@ -38,8 +43,36 @@
     width: auto;
 }
 
-.navbar__title {
+.navbar__title,
+.navbar__link {
+    font-family: var(--ifm-heading-font-family);
     font-weight: 700;
+}
+
+/* Doc content: give headings breathing room and a brand accent to break up long pages */
+.markdown h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--ifm-color-primary-lightest);
+}
+
+[data-theme='dark'] .markdown h2 {
+    border-bottom-color: var(--ifm-color-primary-darkest);
+}
+
+.markdown h3 {
+    margin-top: 2rem;
+}
+
+/* Auto-generated category card grids: lift on hover, brand accent top border */
+.theme-doc-card-container {
+    border-top: 3px solid var(--ifm-color-primary-lightest);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.theme-doc-card-container:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-3px);
 }
 
 /* Footer: derive from the brand color instead of a one-off hardcoded hex */
@@ -55,6 +88,15 @@
 .badge-icon {
     width: 100px;
     height: 100px;
+}
+
+/* Small section logo used inline next to headings (uniforms, meeting times) */
+.section-logo {
+    width: 28px;
+    height: 28px;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    object-fit: contain;
 }
 
 aside {

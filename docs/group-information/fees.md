@@ -23,10 +23,10 @@ The membership fees for Belmont Scouts are structured as follows:
 
 ### Payment Schedule
 
-Fees are generally due at the following times:
-
+:::info When fees are due
 - **Annual Membership Fee:** Due at the beginning of the Scouting year
 - **Term Fees:** Due at the start of each school term
+:::
 
 ### What the Fees Cover
 
@@ -44,11 +44,11 @@ Your membership fees contribute to:
 
 Belmont Scouts is a registered activity provider for the Queensland Government's FairPlay program. FairPlay vouchers provide up to $200 to help cover the cost of membership fees for eligible children and young people. 
 
-**How to Apply for FairPlay Vouchers:**
-
+:::tip How to apply for a FairPlay voucher
 1. **Check Eligibility:** Visit the [FairPlay website](https://www.qld.gov.au/recreation/sports/funding/fairplay/apply) to check if your child is eligible.
 2. **Apply for a Voucher:** Follow the instructions on the FairPlay website to apply for a voucher.
 3. **Submit the Voucher:** Once you receive the voucher, submit it to [GL@belmont.scoutsqld.com.au](mailto:gl@belmont.scoutsqld.com.au) to be applied to your membership fees.
+:::
 
 ### Other Assistance Options
 

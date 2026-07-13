@@ -13,25 +13,25 @@ Wearing the uniform is an important part of being a Scout. It helps to foster a 
 
 ## Uniform Requirements by Section
 
-### Joeys
+### <img src={require('../img/Logos/Joey_logo.png').default} alt="" className="section-logo" />Joeys
 - **Shirt:** Joey Scout polo shirt
 - **Scarf:** Group scarf
 - **Woggle:** Optional, depending on group traditions
 - **Hat:** Joey Scout cap
 
-### Cubs
+### <img src={require('../img/Logos/Cub_logo.png').default} alt="" className="section-logo" />Cubs
 - **Shirt:** Cub Scout polo shirt
 - **Scarf:** Group scarf
 - **Woggle:** Group woggle
 - **Hat:** Optional (Cub Scout cap)
 
-### Scouts
+### <img src={require('../img/Logos/Scouts_logo.png').default} alt="" className="section-logo" />Scouts
 - **Shirt:** Scout section shirt
 - **Scarf:** Group scarf
 - **Woggle:** Group woggle
 - **Hat:** Optional (Scout cap)
 
-### Venturers
+### <img src={require('../img/Logos/Venturer_logo.png').default} alt="" className="section-logo" />Venturers
 - **Shirt:** Venturer Scout shirt
 - **Scarf:** Group scarf
 - **Woggle:** Group woggle

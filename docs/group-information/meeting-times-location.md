@@ -23,28 +23,28 @@ You can find us at the Belmont Scout Den using the map below:
 
 ## Weekly Meetings
 
-### Joey Scouts (Ages 5-8)
+### <img src={require('../img/Logos/Joey_logo.png').default} alt="" className="section-logo" />Joey Scouts (Ages 5-8)
 - **Day:** Wednesday Evenings
 - **Time:** 6:15 PM - 7:30 PM
 - **Location:** Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152
 
 Joey Scouts are introduced to the world of Scouting through simple, engaging activities that focus on nature, teamwork, and having fun. These sessions are designed to be shorter to suit the attention spans of younger children, providing a nurturing environment where they can explore new things in a safe setting.
 
-### Cub Scouts (Ages 8-11)
+### <img src={require('../img/Logos/Cub_logo.png').default} alt="" className="section-logo" />Cub Scouts (Ages 8-11)
 - **Day:** Wednesday Evenings
 - **Time:** 6:15 PM - 7:45 PM
 - **Location:** Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152
 
 During our weekly Cub Scouts meetings, the children engage in a variety of activities that help them develop new skills, build friendships, and learn the values of Scouting. Each meeting is carefully planned to ensure a balance between fun and learning. Activities include games, crafts, outdoor skills, and preparation for camping trips and other events.
 
-### Scouts (Ages 11-14)
+### <img src={require('../img/Logos/Scouts_logo.png').default} alt="" className="section-logo" />Scouts (Ages 11-14)
 - **Day:** Friday Evenings
 - **Time:** 7:00 PM - 9:00 PM
 - **Location:** Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152
 
 Scouts meetings are filled with exciting and challenging activities that prepare them for more advanced Scouting adventures. From learning essential survival skills to planning and participating in overnight camps, the Scouts are encouraged to take on leadership roles and work as a team to solve problems and achieve their goals.
 
-### Venturer Scouts (Ages 14-18)
+### <img src={require('../img/Logos/Venturer_logo.png').default} alt="" className="section-logo" />Venturer Scouts (Ages 14-18)
 - **Day:** Friday Evenings
 - **Time:** 7:00 PM - 9:00 PM
 - **Location:** Belmont Scout Den, 84 Wright Street, Carindale, QLD, 4152
@@ -93,6 +93,7 @@ If you have any questions or concerns regarding the meeting times or location, p
 
 ---
 
-**Additional Notes:**
+:::tip Additional Notes
 - **Uniform:** Please ensure that your child arrives in the appropriate uniform for their section (Joey, Cub, or Scout).
 - **Weather:** Meetings are held rain or shine. In the event of severe weather, we will notify parents of any changes to the schedule via email or SMS.
+:::

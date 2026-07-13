@@ -56,16 +56,20 @@ Leaders are also required to undergo regular training on child safety and protec
 
 ### Reporting Concerns
 
+:::tip Speak up if you have a concern
 We encourage Scouts, parents, and leaders to speak up if they have any concerns about the safety or well-being of a child. Concerns can be reported to:
 - A section leader or the Group Leader.
 - The District or Region Commissioner.
 - Scouts Queensland's Child Protection Team.
 
 All reports are treated confidentially and are investigated thoroughly in accordance with Scouts Australia's procedures.
+:::
 
 ### Blue Card Requirements
 
+:::info
 All leaders and regular volunteers at Belmont Scouts are required to hold a valid Blue Card, which is a working with children check mandated by Queensland law. This ensures that everyone involved in the program has been properly vetted and is committed to maintaining a safe environment for all Scouts.
+:::
 
 ## COVID-19 Protocols
 
