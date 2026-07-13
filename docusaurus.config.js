@@ -7,11 +7,11 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
     title: 'Belmont Parent Handbook',
     tagline: 'Be Prepared',
-    url: 'https://adamGallard.github.io', // Production URL
-    baseUrl: '/BelmontHandbook', // GitHub Pages project name
+    url: 'https://belmont.scoutsqld.com.au', // Production URL (custom domain)
+    baseUrl: '/',
     organizationName: 'adamGallard', // GitHub username
     projectName: 'BelmontHandbook', // Repo name
-    deploymentBranch: 'gh-pages',
+    //deploymentBranch: 'gh-pages',
     favicon: 'img/cropped-Scouts_social_icon-32x32.png',
 
     // Handling broken links
@@ -49,7 +49,7 @@ const config = {
             {
                 docs: {
                     sidebarPath: './sidebars.js',
-                    editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    editUrl: 'https://github.com/adamGallard/BelmontHandbook/edit/main/',
                 },
                 theme: {
                     customCss: './src/css/custom.css',

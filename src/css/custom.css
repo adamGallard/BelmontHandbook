@@ -86,8 +86,8 @@
 }
 
 .badge-icon {
-    width: 100px;
-    height: 100px;
+    width: 64px;
+    height: auto;
 }
 
 /* Small section logo used inline next to headings (uniforms, meeting times) */
