@@ -51,6 +51,9 @@ const config = {
                     sidebarPath: './sidebars.js',
                     editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
+                theme: {
+                    customCss: './src/css/custom.css',
+                },
             },
         ],
     ],
@@ -100,15 +103,6 @@ const config = {
             ],
         },
     },
-
-
-    // Custom stylesheets
-    stylesheets: [
-        {
-            href: '/BelmontHandbook/css/custom.css',
-            type: 'text/css',
-        },
-    ],
 };
 
 export default config;

@@ -4,10 +4,14 @@
  */
 
 .heroBanner {
-    background: url('/img/scouts-Hor.png') no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/img/scouts-Hor.png') no-repeat center center;
     background-size: cover;
-    color: white; /* Adjust text color if necessary */
+    color: white;
+    text-align: center;
+}
 
+.heroBanner .hero__subtitle {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
 @media screen and (max-width: 996px) {
@@ -21,68 +25,104 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
 }
 
-.features {
-    margin-top: 2rem;
+.outlineButton {
+    color: white;
+    border-color: white;
 }
 
-.container {
-    display: flex;
-    flex-direction: row;
-    margin-top: 20px;
+.outlineButton:hover {
+    color: var(--ifm-color-primary);
+    background-color: white;
+    border-color: white;
 }
 
-.row {
-    display: flex;
-    flex-wrap: nowrap;
+.sectionHeading {
+    text-align: center;
 }
 
-.col--3 {
-    flex: 0 0 25%;
-    max-width: 25%;
+.sectionSubheading {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 2rem auto;
 }
 
-.col--9 {
-    flex: 0 0 75%;
-    max-width: 75%;
+/* Age section cards */
+.ageSections {
+    padding: 3rem 0;
 }
 
-aside {
-    background-color: #f4f4f4; /* Light gray background for the sidebar */
-    padding: 15px;
-    border-right: 1px solid #ddd; /* Border to separate the sidebar */
+.ageCard {
+    display: block;
     height: 100%;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--ifm-color-emphasis-300);
+    color: var(--ifm-font-color-base);
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-main {
-    padding-left: 20px; /* Add some padding to the main content area */
+.ageCard:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+    color: var(--ifm-font-color-base);
+    text-decoration: none;
 }
 
-.search-bar {
+.ageCardLogo {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    margin-bottom: 0.75rem;
+}
+
+.ageCardAges {
+    font-weight: bold;
+    color: var(--ifm-color-primary);
+    margin-bottom: 0.5rem;
+}
+
+/* Join CTA */
+.joinCta {
+    background-color: var(--ifm-color-emphasis-100);
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.joinCta p {
+    max-width: 600px;
+    margin: 0 auto 1.5rem auto;
+}
+
+/* Current members quick links */
+.currentMembers {
+    padding: 3rem 0 4rem 0;
+}
+
+.quickLinks {
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
 }
 
-    .search-bar input {
-        padding: 5px;
-        font-size: 1rem;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-    }
+.quickLink {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    border: 1px solid var(--ifm-color-emphasis-300);
+    color: var(--ifm-font-color-base);
+    text-decoration: none;
+}
 
-    .search-bar button {
-        margin-left: 10px;
-        padding: 5px 10px;
-        font-size: 1rem;
-        cursor: pointer;
-        border: none;
-        background-color: #007bff;
-        color: white;
-        border-radius: 4px;
-    }
-
-        .search-bar button:hover {
-            background-color: #0056b3;
-        }
+.quickLink:hover {
+    background-color: var(--ifm-color-emphasis-200);
+    color: var(--ifm-font-color-base);
+    text-decoration: none;
+}
 

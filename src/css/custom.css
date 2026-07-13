@@ -1,9 +1,62 @@
-/* src/css/custom.css */
+/**
+ * Belmont Scouts brand color, derived from the maroon used in the
+ * group's logo/badges (#681e35). Infima uses these variables to drive
+ * links, buttons, active sidebar items, and more across the whole site.
+ */
+:root {
+    --ifm-color-primary: #681e35;
+    --ifm-color-primary-dark: #5a1a2e;
+    --ifm-color-primary-darker: #53182a;
+    --ifm-color-primary-darkest: #3e1220;
+    --ifm-color-primary-light: #76223c;
+    --ifm-color-primary-lighter: #7d2440;
+    --ifm-color-primary-lightest: #922a4a;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
 
-.doc-sidebar {
-    overflow-y: auto;
-    height: 100%;
-    position: sticky;
-    top: 40px;
-    margin-top: 0;
+/* Lighter, more saturated variant for adequate contrast on dark backgrounds */
+[data-theme='dark'] {
+    --ifm-color-primary: #d7507a;
+    --ifm-color-primary-dark: #d4426f;
+    --ifm-color-primary-darker: #d23a6a;
+    --ifm-color-primary-darkest: #c52d5c;
+    --ifm-color-primary-light: #db5f85;
+    --ifm-color-primary-lighter: #dc668b;
+    --ifm-color-primary-lightest: #e17c9c;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Navbar: brand accent border + subtle depth so it doesn't look like a flat template default */
+.navbar {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+    border-bottom: 3px solid var(--ifm-color-primary);
+}
+
+.navbar__logo img {
+    height: 42px;
+    width: auto;
+}
+
+.navbar__title {
+    font-weight: 700;
+}
+
+/* Footer: derive from the brand color instead of a one-off hardcoded hex */
+.footer--dark {
+    --ifm-footer-background-color: var(--ifm-color-primary-darkest);
+}
+
+.leader-photo {
+    width: 150px;
+    height: auto;
+}
+
+.badge-icon {
+    width: 100px;
+    height: 100px;
+}
+
+aside {
+    height: auto !important;
 }
